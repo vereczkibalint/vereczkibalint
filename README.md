@@ -4,4 +4,4 @@
 
 🌱 I’m currently learning Angular, Swift.
 
-💼 I'm working at Adnovum (Budapest, Hungary) as a Junior Software Engineer
+💼 I'm working at Adnovum (Budapest, Hungary) as a Professional Software Engineer.
